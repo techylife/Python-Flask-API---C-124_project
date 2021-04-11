@@ -18,7 +18,7 @@ contacts = [
     {
         "id":3,
         "phone":763219548,
-        "name":"Anuradaha Saha",
+        "name":"Anuradaha Das",
         "address":"Rail Maidan, Bolpur ,Birbhum, West Bengal",
     },
     {
